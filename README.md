@@ -14,6 +14,10 @@ I’m currently on the hunt for my first dev gig. If you’re looking for someon
 - Backend: Node.js, Express, MongoDB, AWS
 - Learning: TypeScript, Angular, C#, .NET
 
+## certs  
+- Harvard CS50
+- AWS Certified Cloud Practitioner
+ 
 ## contact
 - [LinkedIn](https:/www.linkedin.com/in/drummondr)  
 - [Email](mailto:drummond.rohan@gmail.com)  
