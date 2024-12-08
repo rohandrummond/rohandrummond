@@ -1,8 +1,10 @@
 # kia ora I'm rohan 👋
 
-After years of coding as a hobby, I've taken the leap from a career in marketing to pursue my passion full time. Since 2023, I’ve been self-employed and developing my skillset, while volunteering for a charity in the environmental space. 
+After years of coding as a hobby, I’ve taken the leap from a career in marketing to pursue my passion full time. 
 
-I’m currently on the hunt for my first dev gig. If you’re looking for someone who’s a team player and eager to learn, I’d love to chat!
+Like many, I began dipping my toes into web dev through a Udemy course by London App Brewery's Angela Yu. I was hooked and decided to continue on to HarvardX's CS50x, getting into computer science fundamentals like binary, memory management, data structures, algorithms, and programming in C. Since then I've been volunteering, learning and building projects with modern technologies like React, Node.js, MongoDB, and AWS.
+
+Now I’m on the hunt for my first dev gig. If you’re looking for someone who’s collaborative and eager to learn, flick me a message. I’d love to chat!
 
 ## projects
 - A full-stack travel blog called Arbie Abroad, built with React, Node.js, and MongoDB
@@ -11,11 +13,11 @@ I’m currently on the hunt for my first dev gig. If you’re looking for someon
 
 ## skills  
 - Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js, Express, MongoDB, AWS
+- Backend: C, Python, PHP, Node.js, Express, MongoDB, AWS
 - Learning: TypeScript, Angular, C#, .NET
 
 ## certs  
-- Harvard CS50
+- HarvardX CS50X
 - AWS Certified Cloud Practitioner
  
 ## contact
