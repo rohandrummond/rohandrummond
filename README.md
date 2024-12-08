@@ -15,7 +15,7 @@ I’m currently on the hunt for my first dev gig. If you’re looking for someon
 - Learning: TypeScript, Angular, C#, .NET
 
 ## contact
-- [LinkedIn](https://www.linkedin.com/in/rohan-drummond-8144511a9)  
+- [LinkedIn](https:/www.linkedin.com/in/drummondr)  
 - [Email](mailto:drummond.rohan@gmail.com)  
 <!--
 **rohandrummond/rohandrummond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
