@@ -6,7 +6,7 @@ After spending almost 5 years in the marketing industry across various roles in 
 
 Check out my portfolio at [rohandrummond.co.nz](https://rohandrummond.co.nz).
 
-- 🚀 Built my [portfolio](https://rohandrummond.co.nz), [TattGPT](https://rohandrummond.co.nz), [TipTapToe](https://rohandrummond.co.nz) and [Arbie Abroad](https://rohandrummond.co.nz)
+- 🚀 Built my [portfolio](https://github.com/rohandrummond/portfolio), [TattGPT](https://github.com/rohandrummond/tattgpt), [TipTapToe](https://github.com/rohandrummond/tiptaptoe) and [Arbie Abroad](https://github.com/rohandrummond/arbie-abroad)
 - ⚙️ Working on a financial dashboard for couples (Next.js) and an API key service (.NET, Postgres, Redis, Docker)
 - 🌱 Currently learning more about Golang
 - 💬 Ping me about fishing or craft beer!
