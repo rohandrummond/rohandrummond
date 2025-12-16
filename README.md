@@ -2,7 +2,7 @@
 
 I'm a software developer based in Tāmaki Makaurau, Auckland. 
 
-After spending almost 5 years in the marketing industry across various roles in research, insights and advertising, I decided to transition into tech. I spent 2+ years teaching myself to code, and just completed [Dev Academy Aotearoa](https://devacademy.co.nz/)'s full time software development programme, with 800 hours of hands-on learning.
+After spending 5 years in marketing and advertising, I decided to transition into tech. I spent 2+ years teaching myself to code, and just completed [Dev Academy Aotearoa](https://devacademy.co.nz/)'s full time software development programme, with 800 hours of hands-on learning.
 
 Check out my portfolio at [rohandrummond.co.nz](https://rohandrummond.co.nz).
 
