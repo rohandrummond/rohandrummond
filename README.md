@@ -1,27 +1,17 @@
-# Kia ora I'm Rohan 👋
+### Kia ora I'm Rohan 👋
 
-I'm a Junior Developer based in Tāmaki Makaurau, Auckland.
+I'm a software developer based in Tāmaki Makaurau, Auckland. 
 
-After discovering a passion for software, I’ve spent the past 2+ years immersing myself in self-directed learning and hands-on projects. I began exploring web development through a Udemy course by London’s App Brewery, and quickly became hooked. I then completed HarvardX's CS50x, learning about computer science fundamentals like binary, memory management, data structures, algorithms, and programming in C. From there, I progressed to building projects with frameworks like React, Angular, Next.js, and .NET, and expanded my knowledge to cloud infrastructure with AWS's Certified Cloud Practitioner certification.
+After spending almost 5 years in the marketing industry across various roles in research, insights and advertising, I decided to transition into tech. I spent 2+ years teaching myself to code, and just completed [Dev Academy Aotearoa](https://devacademy.co.nz/)'s full time software development programme, with 800 hours of hands-on learning.
 
-I’m currently studying at [Dev Academy Aotearoa](https://devacademy.co.nz/), with my cohort finishing in December this year. I'm on the hunt for an entry-level developer role, so if you're looking for someone who’s driven, collaborative and eager to learn, flick me a message. I’d love to chat.
- 
-### Contact 📫 
+Check out my portfolio at [rohandrummond.co.nz](https://rohandrummond.co.nz).
+
+- 🚀 Built my [portfolio](https://rohandrummond.co.nz), [TattGPT](https://rohandrummond.co.nz), [TipTapToe](https://rohandrummond.co.nz) and [Arbie Abroad](https://rohandrummond.co.nz)
+- ⚙️ Working on a financial dashboard for couples (Next.js) and an API key service (.NET, Postgres, Redis, Docker)
+- 🌱 Currently learning more about Golang
+- 💬 Ping me about fishing or craft beer!
+
+#### Contact 📫 
 
 [LinkedIn](https://www.linkedin.com/in/drummondr)\
 [Email](mailto:drummond.rohan@gmail.com)
-
-<!--
-**rohandrummond/rohandrummond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
